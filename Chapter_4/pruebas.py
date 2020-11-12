@@ -15,9 +15,8 @@ print(magician)
 #     square.append(s)
 # print(square)
 
-a = [1,2,3,4]
+a = [1, 2, 3, 4]
 b = a
 a.append(99)
 print(a)
 print(b)
-

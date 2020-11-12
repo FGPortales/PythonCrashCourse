@@ -9,5 +9,5 @@
 # for v in range(1,20,2):
 #     print(v, end=' ')
 
-l = [v**3 for v in range(1,11)]
-print(l)
+my_list = [v**3 for v in range(1, 11)]
+print(my_list)

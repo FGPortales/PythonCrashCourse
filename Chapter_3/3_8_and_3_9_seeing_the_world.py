@@ -10,7 +10,5 @@ print("Hay {} lugares preferidos para visitar.".format(len(places_to_visit)))
 
 """ intentional error """
 
-arr = [1,2,3,4,4]
+arr = [1, 2, 3, 4, 4]
 print(arr[9])
-
-
