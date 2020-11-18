@@ -2,4 +2,5 @@ glossary = {
     'rjust': 'to align to the right',
     'ljust': 'to align to the left '
 }
-print(glossary['rjust'])
+for statement, mean in glossary.items():
+    print("{} : {}".format(statement.title(), mean.title()))
